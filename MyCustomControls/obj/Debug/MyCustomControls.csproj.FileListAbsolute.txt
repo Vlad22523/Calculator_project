@@ -1,0 +1,8 @@
+C:\Users\kpops\OneDrive\Рабочий стол\Calculator\Calculator\MyCustomControls\bin\Debug\MyCustomControls.dll
+C:\Users\kpops\OneDrive\Рабочий стол\Calculator\Calculator\MyCustomControls\bin\Debug\MyCustomControls.pdb
+C:\Users\kpops\OneDrive\Рабочий стол\Calculator\Calculator\MyCustomControls\obj\Debug\MyCustomControls.csproj.AssemblyReference.cache
+C:\Users\kpops\OneDrive\Рабочий стол\Calculator\Calculator\MyCustomControls\obj\Debug\MyCustomControls.Properties.Resources.resources
+C:\Users\kpops\OneDrive\Рабочий стол\Calculator\Calculator\MyCustomControls\obj\Debug\MyCustomControls.csproj.GenerateResource.cache
+C:\Users\kpops\OneDrive\Рабочий стол\Calculator\Calculator\MyCustomControls\obj\Debug\MyCustomControls.csproj.CoreCompileInputs.cache
+C:\Users\kpops\OneDrive\Рабочий стол\Calculator\Calculator\MyCustomControls\obj\Debug\MyCustomControls.dll
+C:\Users\kpops\OneDrive\Рабочий стол\Calculator\Calculator\MyCustomControls\obj\Debug\MyCustomControls.pdb

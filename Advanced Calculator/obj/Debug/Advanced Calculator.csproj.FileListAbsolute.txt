@@ -1,0 +1,28 @@
+C:\Users\kpops\OneDrive\Рабочий стол\Calculator\Calculator\Advanced Calculator\bin\Debug\MyCustomControls.dll
+C:\Users\kpops\OneDrive\Рабочий стол\Calculator\Calculator\Advanced Calculator\bin\Debug\MyCustomControls.pdb
+C:\Users\kpops\OneDrive\Рабочий стол\Calculator\Calculator\Advanced Calculator\obj\Debug\Advanced Calculator.csproj.AssemblyReference.cache
+C:\Users\kpops\OneDrive\Рабочий стол\Calculator\Calculator\Advanced Calculator\obj\Debug\Advanced_Calculator.Form1.resources
+C:\Users\kpops\OneDrive\Рабочий стол\Calculator\Calculator\Advanced Calculator\obj\Debug\Advanced_Calculator.Form2.resources
+C:\Users\kpops\OneDrive\Рабочий стол\Calculator\Calculator\Advanced Calculator\obj\Debug\Advanced_Calculator.Properties.Resources.resources
+C:\Users\kpops\OneDrive\Рабочий стол\Calculator\Calculator\Advanced Calculator\obj\Debug\Advanced Calculator.csproj.GenerateResource.cache
+C:\Users\kpops\OneDrive\Рабочий стол\Calculator\Calculator\Advanced Calculator\obj\Debug\Advanced Calculator.csproj.CoreCompileInputs.cache
+C:\Users\kpops\OneDrive\Рабочий стол\Calculator\Calculator\Advanced Calculator\obj\Debug\Advanced Calculator.exe
+C:\Users\kpops\OneDrive\Рабочий стол\Calculator\Calculator\Advanced Calculator\obj\Debug\Advanced Calculator.pdb
+C:\Users\kpops\OneDrive\Рабочий стол\Calculator\Calculator\Advanced Calculator\bin\Debug\Advanced Calculator.exe.config
+C:\Users\kpops\OneDrive\Рабочий стол\Calculator\Calculator\Advanced Calculator\bin\Debug\Advanced Calculator.exe
+C:\Users\kpops\OneDrive\Рабочий стол\Calculator\Calculator\Advanced Calculator\bin\Debug\Advanced Calculator.pdb
+C:\Users\kpops\OneDrive\Рабочий стол\Calculator\Calculator\Advanced Calculator\obj\Debug\Advanced.2F715660.Up2Date
+C:\Users\Vlad\OneDrive\Рабочий стол\Calculator\Advanced Calculator\bin\Debug\Advanced Calculator.exe.config
+C:\Users\Vlad\OneDrive\Рабочий стол\Calculator\Advanced Calculator\bin\Debug\Advanced Calculator.exe
+C:\Users\Vlad\OneDrive\Рабочий стол\Calculator\Advanced Calculator\bin\Debug\Advanced Calculator.pdb
+C:\Users\Vlad\OneDrive\Рабочий стол\Calculator\Advanced Calculator\bin\Debug\MyCustomControls.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\Calculator\Advanced Calculator\bin\Debug\MyCustomControls.pdb
+C:\Users\Vlad\OneDrive\Рабочий стол\Calculator\Advanced Calculator\obj\Debug\Advanced Calculator.csproj.AssemblyReference.cache
+C:\Users\Vlad\OneDrive\Рабочий стол\Calculator\Advanced Calculator\obj\Debug\Advanced_Calculator.Form1.resources
+C:\Users\Vlad\OneDrive\Рабочий стол\Calculator\Advanced Calculator\obj\Debug\Advanced_Calculator.Form2.resources
+C:\Users\Vlad\OneDrive\Рабочий стол\Calculator\Advanced Calculator\obj\Debug\Advanced_Calculator.Properties.Resources.resources
+C:\Users\Vlad\OneDrive\Рабочий стол\Calculator\Advanced Calculator\obj\Debug\Advanced Calculator.csproj.GenerateResource.cache
+C:\Users\Vlad\OneDrive\Рабочий стол\Calculator\Advanced Calculator\obj\Debug\Advanced Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\OneDrive\Рабочий стол\Calculator\Advanced Calculator\obj\Debug\Advanced Calculator.csproj.CopyComplete
+C:\Users\Vlad\OneDrive\Рабочий стол\Calculator\Advanced Calculator\obj\Debug\Advanced Calculator.exe
+C:\Users\Vlad\OneDrive\Рабочий стол\Calculator\Advanced Calculator\obj\Debug\Advanced Calculator.pdb
